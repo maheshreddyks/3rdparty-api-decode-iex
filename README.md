@@ -1,5 +1,7 @@
 # Bitcoin
 
+![img](picture.jpg)
+
 **TODO: Add description**
 
 ## Installation
